@@ -39,4 +39,11 @@ ehthumbs.db
 Thumbs.db
 .actrc*
 
+# Testing and coverage #
+########################
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
 __pycache__/
